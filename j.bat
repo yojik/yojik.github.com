@@ -1,2 +1,5 @@
-set LC_ALL=ja_JP.UTF-8
-set LANG=ja_JP.UTF-8
+@setlocal
+@set LC_ALL=ja_JP.UTF-8
+@set LANG=ja_JP.UTF-8
+@jekyll %*
+@endlocal
