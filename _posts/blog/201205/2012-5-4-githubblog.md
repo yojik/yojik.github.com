@@ -1,8 +1,8 @@
 ---
-layout: post
 title: ブログ移行
-tagline: aaa
 tags:  つれづれ
+
+layout: post
 category : blog
 ---
 {% include JB/setup %}
