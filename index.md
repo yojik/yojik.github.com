@@ -9,10 +9,3 @@ title:  記事一覧
   {% endfor %}
 </ul>
 
-## To-Do
-<ul>
-	<li>markdown覚える</li>
-	<li>レイアウトなおす</li>
-	<li>Amazonアフィの手段を検討</li>
-</ul>
-
