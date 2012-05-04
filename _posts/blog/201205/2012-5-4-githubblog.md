@@ -6,6 +6,6 @@ category : blog
 ---
 {% include JB/setup %}
 
-GitHubの現況もかねてblogをGitHub上に移行しつつある。
+GitHubの勉強もかねてblogをGitHub上に移行しつつある。
 
 リポジトリにpushするとjekyllでビルドしてくれるので便利です。
